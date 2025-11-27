@@ -1,0 +1,1 @@
+add_executable(l2_q1 l2_q1.cpp)
